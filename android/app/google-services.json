@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26537898610",
+    "project_id": "robotcar-5fd6e",
+    "storage_bucket": "robotcar-5fd6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26537898610:android:c744785bf45bba4f2108eb",
+        "android_client_info": {
+          "package_name": "com.robot.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp43Ht1A_0s56RFzOEO5OFi71wez0WoW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
